@@ -3,5 +3,5 @@ Capacitacion: Git, bash y docker
 Integrantes:
 --Pillihuaman Hurtado Zarmir
 --Ccapa Becerra Pablito
-
+--Gomez Torres Carlos Luis
 
